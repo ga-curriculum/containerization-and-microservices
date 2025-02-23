@@ -1,27 +1,20 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Containerization and Microservices</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+By the end of this module, students will understand the fundamental concepts of containerized microservices, their benefits compared to traditional monolithic architectures, and the challenges associated with adopting microservices in real-world scenarios.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
-
-## Level Up content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
-
-## References
-
-📖 [Reference Materials](../references/README.md)
+| [What are Containerized Microservices?](../what-are-microservices/README.md)                          | 5 min | Explore containerization and microservices. |
+| [Monoliths vs. Microservices](../monolith-vs-microservice/README.md)                    | 10 min | Compare microservices and monolithic architectures.                |
+| [Advantages of Microservices Architectures](../advantages-of-microservices/README.md) | 5 min | What advantages do microservices provide?                |
+| [Challenges of Microservices Architectures](../challenges-of-microservices/README.md) | 5 min | What challenges can microservices cause.                |
+| [Case Study: A Real-World Application of Microservices](../case-study/README.md) | 5 min | Real-life case study on microservices usage.                |
+| **Total content**                                   | 30 min |                                     |

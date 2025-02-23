@@ -1,56 +1,33 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Containerization and Microservices</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+By the end of this module, students will understand the fundamental concepts of containerized microservices, their benefits compared to traditional monolithic architectures, and the challenges associated with adopting microservices in real-world scenarios.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
-
-## References
-
-📖 [Reference Materials](./references/README.md)
+| [What are Containerized Microservices?](./what-are-microservices/README.md)                          | 5 min | Explore containerization and microservices. |
+| [Monoliths vs. Microservices](./monolith-vs-microservice/README.md)                    | 10 min | Compare microservices and monolithic architectures.                |
+| [Advantages of Microservices Architectures](./advantages-of-microservices/README.md) | 5 min | What advantages do microservices provide?                |
+| [Challenges of Microservices Architectures](./challenges-of-microservices/README.md) | 5 min | What challenges can microservices cause.                |
+| [Case Study: A Real-World Application of Microservices](./case-study/README.md) | 5 min | Real-life case study on microservices usage.                |
+| **Total content**                                   | 30 min |                                     |
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+- None
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/containerization-and-microservices/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/containerization-and-microservices/canvas-landing-pages/fallback.html)
 
 ### Resources
 
