@@ -2,30 +2,37 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+whatAreMicroservices = new Template.Microlesson {
+  friendlyName = "What are Containerized Microservices?"
+  dirName = "what-are-microservices"
   type = "Content"
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+monolithsVsMicroservices = new Template.Microlesson {
+  friendlyName = "Monoliths vs. Microservices"
+  dirName = "monolith-vs-microservice"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+advantagesOfMicroservices = new Template.Microlesson {
+  friendlyName = "Advantages of Microservices Architectures"
+  dirName = "advantages-of-microservices"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+challengesOfMicroservices = new Template.Microlesson {
+  friendlyName = "Challenges of Microservices Architectures"
+  dirName = "challenges-of-microservices"
+  type = "Content"
+  videoUrl = ""
+}
+
+caseStudy = new Template.Microlesson {
+  friendlyName = "Case Study: A Real-World Application of Microservices"
+  dirName = "case-study"
   type = "Content"
   videoUrl = ""
 }
