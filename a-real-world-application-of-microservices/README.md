@@ -5,7 +5,7 @@
 
 **Learning objective:** By the end of this lesson, students will analyze a real-world case study of a company that has successfully adopted a microservices architecture, understanding how microservices have been applied to address specific business challenges and the benefits achieved through this approach.
 
-## Case study: Uber's Microservices Architecture
+## Case study: Uber's microservices architecture
 
 Let's take a look at a real-world example to see how containerized microservices can be applied.
 
