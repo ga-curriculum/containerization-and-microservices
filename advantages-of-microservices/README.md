@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Containerization and Microservices</span>
-  <span class="subhead">Advantages of Microservices Architectures</span>
+  <span class="subhead">Advantages of Microservices</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to identify and explain the key advantages of microservices architectures, including increased agility, scalability, resilience, technology diversity, modularity, and alignment with continuous delivery practices.

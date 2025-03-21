@@ -20,26 +20,26 @@ repo {
 
 courses {
   new {
+    name = "itb"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.concepts
+      mls.monolithsVsMicroservices
+      mls.advantagesOfMicroservices
+      mls.challengesOfMicroservices
+      mls.aRealWorldApplicationOfMicroservices
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.whatAreMicroservices
+      mls.concepts
       mls.monolithsVsMicroservices
       mls.advantagesOfMicroservices
       mls.challengesOfMicroservices
-      mls.caseStudy
-    }
-  }
-    new {
-    name = "itb"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.whatAreMicroservices
-      mls.monolithsVsMicroservices
-      mls.advantagesOfMicroservices
-      mls.challengesOfMicroservices
-      mls.caseStudy
+      mls.aRealWorldApplicationOfMicroservices
     }
   }
 }

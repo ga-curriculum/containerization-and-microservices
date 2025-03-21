@@ -1,11 +1,11 @@
 <h1>
   <span class="headline">Containerization and Microservices</span>
-  <span class="subhead">Challenges of Microservices and Containerization</span>
+  <span class="subhead">Challenges of Microservices</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to recognize and discuss the challenges associated with adopting microservices and containerization, such as increased complexity, network latency, data consistency, monitoring and debugging, security, and operational complexity.
 
-## Challenges of Microservices and Containerization
+## Challenges of microservices and containerization
 
 While microservices and containerization offer numerous benefits, they also come with their own set of challenges:
 
