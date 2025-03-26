@@ -25,8 +25,7 @@ courses {
       // Add microlessons here, in the order they should be delivered
       mls.concepts
       mls.monolithsVsMicroservices
-      mls.advantagesOfMicroservices
-      mls.challengesOfMicroservices
+      mls.benefitsAndChallengesOfMicroservices
       mls.aRealWorldApplicationOfMicroservices
     }
   }
@@ -37,8 +36,7 @@ courses {
       // Add microlessons here, in the order they should be delivered
       mls.concepts
       mls.monolithsVsMicroservices
-      mls.advantagesOfMicroservices
-      mls.challengesOfMicroservices
+      mls.benefitsAndChallengesOfMicroservices
       mls.aRealWorldApplicationOfMicroservices
     }
   }

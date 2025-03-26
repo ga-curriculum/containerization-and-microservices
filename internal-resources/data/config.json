@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "What are Containerized Microservices?",
-          "dirName": "what-are-microservices",
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -31,7 +31,7 @@
         },
         {
           "friendlyName": "Monoliths vs. Microservices",
-          "dirName": "monolith-vs-microservice",
+          "dirName": "monoliths-vs-microservices",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Advantages of Microservices Architectures",
-          "dirName": "advantages-of-microservices",
+          "friendlyName": "Benefits and Challenges of Microservices",
+          "dirName": "benefits-and-challenges-of-microservices",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,18 +50,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Challenges of Microservices Architectures",
-          "dirName": "challenges-of-microservices",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Case Study: A Real-World Application of Microservices",
-          "dirName": "case-study",
+          "friendlyName": "A Real World Application of Microservices",
+          "dirName": "a-real-world-application-of-microservices",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -93,14 +83,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "What are Containerized Microservices?",
-          "dirName": "what-are-microservices",
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -110,7 +100,7 @@
         },
         {
           "friendlyName": "Monoliths vs. Microservices",
-          "dirName": "monolith-vs-microservice",
+          "dirName": "monoliths-vs-microservices",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -119,8 +109,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Advantages of Microservices Architectures",
-          "dirName": "advantages-of-microservices",
+          "friendlyName": "Benefits and Challenges of Microservices",
+          "dirName": "benefits-and-challenges-of-microservices",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -129,18 +119,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Challenges of Microservices Architectures",
-          "dirName": "challenges-of-microservices",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Case Study: A Real-World Application of Microservices",
-          "dirName": "case-study",
+          "friendlyName": "A Real World Application of Microservices",
+          "dirName": "a-real-world-application-of-microservices",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

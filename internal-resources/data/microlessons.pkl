@@ -16,16 +16,9 @@ monolithsVsMicroservices = new Template.Microlesson {
   videoUrl = ""
 }
 
-advantagesOfMicroservices = new Template.Microlesson {
-  friendlyName = "Advantages of Microservices"
-  dirName = "advantages-of-microservices"
-  type = "Content"
-  videoUrl = ""
-}
-
-challengesOfMicroservices = new Template.Microlesson {
-  friendlyName = "Challenges of Microservices"
-  dirName = "challenges-of-microservices"
+benefitsAndChallengesOfMicroservices = new Template.Microlesson {
+  friendlyName = "Benefits and Challenges of Microservices"
+  dirName = "benefits-and-challenges-of-microservices"
   type = "Content"
   videoUrl = ""
 }
