@@ -15,7 +15,7 @@ In this module, you'll explore the fundamental concepts of containerized microse
 | [Concepts](../concepts/README.md)                                                                    |  5 min | Explore containerization and microservices.                  |
 | [Monoliths vs. Microservices](../monoliths-vs-microservices/README.md)                               | 10 min | Compare microservices and monolithic architectures.          |
 | [Benefits and Challenges of Microservices](../benefits-and-challenges-of-microservices/README.md)    |  5 min | Understand the advantages and disadvantage of microservices. |
-| [A Real-World Application of Microservices](../a-real-world-application-of-microservices/README.md)  |  5 min | Real-life case study on microservices usage.                 |
+| [A Real-World Application of Microservices](../a-real-world-application-of-microservices/README.md)  | 10 min | Real-life case study on microservices usage.                 |
 | **Total content**                                                                                    | 30 min |                                                              |
 
 ## References
